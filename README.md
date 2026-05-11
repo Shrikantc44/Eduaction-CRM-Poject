@@ -4,7 +4,7 @@ A full-stack Education CRM (Customer Relationship Management) web application de
 
 ---
 
-# 📌 About CRM
+#  About CRM
 
 ## CRM (Customer Relationship Management)
 
@@ -19,15 +19,15 @@ CRM helps organizations manage customer interactions, improve customer services,
 
 ---
 
-# 🎓 Education CRM Project
+#  Education CRM Project
 
-## 📖 Introduction
+##  Introduction
 
 This project streamlines customer relationship management by handling student data, course sales, support services, and lead tracking, enhancing overall efficiency and customer satisfaction in educational institutes.
 
 ---
 
-# 🚀 Features
+#  Features
 
 - User Authentication (Login/Register)
 - Role-Based Access Control
@@ -44,7 +44,7 @@ This project streamlines customer relationship management by handling student da
 
 ---
 
-# 👥 Modules
+#  Modules
 
 ## 1️⃣ Admin Module
 - Admin Login
@@ -74,7 +74,7 @@ This project streamlines customer relationship management by handling student da
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ## Frontend
 - HTML
@@ -102,7 +102,7 @@ This project streamlines customer relationship management by handling student da
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 EducationCrmProject
@@ -155,7 +155,7 @@ EducationCrmProject
 
 ---
 
-# 🗄️ Database Tables
+#  Database Tables
 
 ## 1️⃣ register
 | Column Name |
@@ -261,7 +261,7 @@ http://localhost:8085
 
 ---
 
-# 🌐 Deployment
+#  Deployment
 
 ## Backend Deployment
 - Render
@@ -271,7 +271,7 @@ http://localhost:8085
 
 ---
 
-# 📬 API Endpoints
+#  API Endpoints
 
 ## Authentication APIs
 
@@ -311,7 +311,7 @@ http://localhost:8085
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 Dashboard includes:
 - Total Customers
@@ -323,7 +323,7 @@ Dashboard includes:
 
 ---
 
-# 🔒 User Roles
+#  User Roles
 
 ## Admin
 - Manage Employees
@@ -349,14 +349,14 @@ Dashboard includes:
 
 ---
 
-# 🧪 Testing
+#  Testing
 
 APIs tested using:
 - Postman
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ## Shrikant Chauhan
 
@@ -365,7 +365,7 @@ APIs tested using:
 
 ---
 
-# ⭐ Future Enhancements
+#  Future Enhancements
 
 - JWT Authentication
 - Email Notifications
